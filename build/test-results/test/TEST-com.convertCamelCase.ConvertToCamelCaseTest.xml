@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.convertCamelCase.ConvertToCamelCaseTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-10-20T23:51:01" hostname="LAPTOP-F2Q70QIN" time="0.044">
+  <properties/>
+  <testcase name="ConvertToCamelCaseStartInvalidInput()" classname="com.convertCamelCase.ConvertToCamelCaseTest" time="0.031"/>
+  <testcase name="ConvertToCamelCaseStartWithNum()" classname="com.convertCamelCase.ConvertToCamelCaseTest" time="0.002"/>
+  <testcase name="ConvertToCamelCaseNumLetterMixTricky()" classname="com.convertCamelCase.ConvertToCamelCaseTest" time="0.001"/>
+  <testcase name="ConvertToCamelCaseEasy()" classname="com.convertCamelCase.ConvertToCamelCaseTest" time="0.002"/>
+  <testcase name="ConvertToCamelCaseMoreDifficult()" classname="com.convertCamelCase.ConvertToCamelCaseTest" time="0.001"/>
+  <testcase name="ConvertToCamelCaseNumLetterMix()" classname="com.convertCamelCase.ConvertToCamelCaseTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

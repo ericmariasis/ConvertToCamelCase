@@ -1,0 +1,2 @@
+com/convertCamelCase/ConvertToCamelCaseTest.java
+ com.convertCamelCase.ConvertToCamelCaseTest
